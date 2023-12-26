@@ -1,14 +1,18 @@
 # SENG 321 Requirements Engineering Project Specification
 
 ## Objectives
-1.	Gain experience with a software requirements specification project by acting as a client for one project and a designer for a different project.
-2.	Promote student motivation, professionalism, and self-organization by interacting with real stakeholders.
-3.	Apply the RE techniques learned in the course in a group setting focused on realistic problems.
-4.	Practice strong interviewing skills with real stakeholders and other student groups.
-5.	Improve presentation skills through in-class demos and updates.
-6.	Develop strong prototyping skills.
+1.	Gain experience with developing and maintaining a software requirements specification as a living document in a software project.
+2.	Gain experience with the activities and expectations of the roles as clients as well as developers in a software project.
+5.	Promote student motivation, professionalism, and self-organization by interacting with real stakeholders.
+6.	Apply the RE techniques learned in the course in a team project focused on realistic problems.
+7.	Practice interviewing and stakeholder management skills with real stakeholders and other student groups.
+8.	Improve project presentation skills through in-class demos and updates.
+9.	Develop strong prototyping skills.
 
 ## Context and Management
+
+The requirements documentation in a project is a most powerful tool to document the knowledge, expectations and features of a software system. 
+
 ### Working as a Client
 You will work in a 6-8 student project team. Your first task is to find a real organization, introduce yourself, and identify a problem in the company that can benefit from a software solution. You will conduct as many interviews as needed to become familiar with the organization’s system and problem. Subsequently, you will act as representatives of this organization for the duration of this project. Your first deliverable is the request for proposal (RFP), remember the deadline to identify a company is January 17 and the RFP is due January 22!!, so be sure you know enough about the software solution in order to write the RFP. Once you hand-in your RFP, a different team will be assigned to be the corresponding designer team for the problem that is defined in your RFP. As representatives of the problem that can benefit from a software solution, you will act as clients to the designer team for future deliverables. The designer team will then read and understand your RFP and throughout the project will interview the client team three times. During these interviews, you will provide information regarding “your” organization and system. Furthermore, you will provide feedback for the prototypes built by the designer team. As clients, you are also expected to write two additional documents: Requirement Document (RD) 1.1 and Requirements Specification Document (RSD) 1.1, which are explained in further detail in the document specs folder in Connex.
 
