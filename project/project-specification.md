@@ -1,4 +1,4 @@
-# SENG 321 Requirements Engineering Project Specification
+# SENG 321 Requirements Engineering Project 
 
 ## Objectives
 1.	Gain experience with a software requirements specification project by acting as a client for one project and a designer for a different project.
