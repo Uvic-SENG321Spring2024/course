@@ -27,3 +27,10 @@ Your team will also act as a consultant contracted to develop a solution to resp
 2. The total effort must be evenly distributed amongst team members. 
 
 ## Deliverables
+
+As **a Client**
+**Guidelines for choosing the Real-world Organization:**
+- Clear need for improvement
+- Different categories of users
+- System uses a GUI
+- Availability for interviews in the first two weeks of course
