@@ -13,7 +13,7 @@
 
 The requirements documentation in a project is a most powerful tool to document the knowledge, expectations and features of a software system. When managed as a living document, it records the understanding of the needs, the business and user requirements, features and non-functional requirements. It is also a record of decisions made through negotiations between clients and developers of the system. For this project you will be working in a 6-8 student project team in both roles of a **Client** and a **Developer** in **two different projects**. The requirements documentation is developed incrementally and iteratively thoughout the term project and it is the ultimate project deliverable is the course. Clarification: Your team is the same (but play different roles) in the two projects. 
 
-The project follows an agile methodology and iteratively develops a number of artifacts such as Request for Proposals (RFP), Requirements Documemnt, Prototypes and in-class Presentations. 
+The project follows an agile methodology and iteratively develops a number of artifacts such as Request for Proposals (RFP), Requirements Documemnt (RD), Prototypes and in-class Presentations. **All your project work, must be uploaded to your GitHub repo by the due dates given.**
 
 ### Working as a Client
 In order to create realistic requirements for a developer team, you, as a client team, must first write an RFP (Request For Proposal). This involves finding a real organization in our community, and gathering a set of requirements based on a problem that they need solved. For example, perhaps a pharmacy in your neighbourhood needs a better system to acquire and manage information about medications to be dispensed. Specific information on how to choose an organization, and create the RFP can be found below in Deliverables.
@@ -41,23 +41,21 @@ As a client team, you will be asked to produce an RFP, which requires you to fin
 - The organization demostrates a situation which has a clear need for improvement
 - The organization and its problem involve a variety of categories of end-users that are impacted
 - The system uses a GUI (Graphical User Interface)
-- At least one member of the organization has availability to be interviewed by your team in the first two weeks of the course.
+- The organization has availability to be interviewed by your team in the first two weeks of the course.
 
-Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md) including a template for the RFP and the inspection. 
+Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md) for the RFP, which includes the template to use. 
 
 ### Requirements Document (RD)
-- general tips for which sections should be included
-- link to the template
+More information will be provided here timely. For now, please see the [template](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) for the RD. 
 
 ### Prototyping Guidelines
+More information will be provided here timely.
 
 ### Final Presentation Guidelines
-- what to present?
-- presentation length?
-- all group members must be present etc.
+More information will be provided here timely.
 
 ### Team Assessments
-- what this is and where to find it?
+More information will be provided here timely.
  
 ## Project Due Dates
 | **Deliverable**                      | **Description**                                                                 | **Due Date**    | **Role**  |
