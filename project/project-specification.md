@@ -64,7 +64,7 @@ Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/
 |--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
 |  RFP Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
 | RFP                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
-| Requirements Document                | <description>                                                                   | Feb 3 - 11pm    | Designers |
+| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | <description>                                                                   | Feb 3 - 11pm    | Designers |
 | Team Assessment #1                   | <description>                                                                   | Feb 3 - 8am     | -         |
 | Data Models and Use Cases            | Formally propose use cases and data models                                      | Feb 17 - 11pm   | Designers |
 | Team Assessment #2                   | <description>                                                                   | Mar 4 - 8am     | -         |
