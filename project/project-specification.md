@@ -62,7 +62,7 @@ More information will be provided here timely.
 More information will be provided here timely.
  
 ## Project Due Dates
-| **Deliverable**                      | **Description**                                                                 | **Due Date**    | **Role**  |
+| **Deliverable**                      | **Description**                                                                 | ** Tentative Due Date**    | **Role**  |
 |--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
 |  RFP Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
 | RFP                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
