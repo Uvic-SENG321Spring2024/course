@@ -28,15 +28,12 @@ University and department policies on professional conduct and integrity are app
 2023 Update: In case it is not clear, using ChatGPT, Copilot, and other LLM-based AI assistants is considered to be a violation of the integrity policy unless specifically mentioned as acceptable in the assignment.
 
 ## Project
-One of the main deliverable of this course is course project. Please see project page (TBA) for more details. 
+There is a large project in this course, see project page for a description of its specification, deliverables and timelines. 
 
 ## Quizzes
 Quizzes will be conducted on Brightspace so please bring something that can connect to the internet on those days.
 
 ## Textbook
-The official textbook for this course is TBA
-
-## Other Text
-Additional material that you can read for your benefit is TBA
+Required: Software Requirements (3rd edition) by Karl Wiegers and Joy Beatty (Microsoft Press). Available through [UVic Libraries subscription](https://search.library.uvic.ca/discovery/fulldisplay?context=PC&vid=01VIC_INST:01UVIC&search_scope=MyInst_and_CI&tab=LIBALL&docid=cdi_safari_books_v2_9780735679658) for "free".
 
 # Licence and Acknowledgments
