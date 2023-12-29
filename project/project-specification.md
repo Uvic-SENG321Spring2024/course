@@ -26,10 +26,11 @@ To ensure you find realistic requirements, your first task is to find a real org
 ### Working as a Developer
 Your team will also act as a consultant contracted to develop a solution to respond to the needs of a client organization (development is not the focus of the project, but performing the requirements engineering activities). The ultimate deliverable is the **Requirements Document (RD)** (including high level external design) for the feature chosen by the clients, which will be delivered in stages through the **RD**. It is the responsibility of the designer team to independently apply the requirements engineering activities in order to produce the deliverables. However, the client team is available and expected to clarify questions regarding the solution. Over the course of the project, the designer team will have several meetings with the client team, which provide you the opportunity to elicit requirements, corroborate understanding, and validate and verify prototypes (use case models, UML, sequence diagrams, data flow diagrams, etc). By the end of the project, your team is expected to turn in a complete **Requirements Document** which will be built in three iterations, and give a final project demonstration to the class.
 
+**NOTE:** your project team will act as a **client** for **one** project and a **designer** for a **different** project.
+
 ## GitHub Usage Guidelines
 Github instructions here.
 
-**NOTE:** your project team will act as a **client** for **one** project and a **designer** for a **different** project.
 
 ## General Project Rules
 1. The project comprises about 100-150 hours per person in the student team (depending on how effectively your team collaborates).
@@ -64,9 +65,9 @@ More information will be provided here timely.
 ## Project Due Dates
 | **Deliverable**                      | **Description**                                                                 | ** Tentative Due Date**    | **Role**  |
 |--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
-|  RFP Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
-| RFP                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
-| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | <description>                                                                   | Feb 3 - 11pm    | Designers |
+|  Find Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
+| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
+| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | include vision and scope section                                                                   | Feb 3 - 11pm    | Designers |
 | Team Assessment #1                   | <description>                                                                   | Feb 3 - 8am     | -         |
 | Data Models and Use Cases            | Formally propose use cases and data models                                      | Feb 17 - 11pm   | Designers |
 | Team Assessment #2                   | <description>                                                                   | Mar 4 - 8am     | -         |
