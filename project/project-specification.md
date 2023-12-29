@@ -63,3 +63,4 @@ Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/
 | Team Assessment #2                   | <description>                                                                   | Mar 4 - 8am     | -         |
 | Prototypes                           | Submit prototypes based on previously proposed requirements and client feedback | Mar 9 - 11pm    | Designers |
 | Final presentation and demonstration | Project presentations which include a demo  of final prototypes.                | Mar 31 in class | Designers |
+| Team Assessment #3                   | <description>                                                                   | Apr 4- 8am      | -         |
