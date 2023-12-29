@@ -46,7 +46,13 @@ As a client team, you will be asked to produce an RFP, which requires you to fin
 Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md) including a template for the RFP and the inspection. 
  
 ## Project Due Dates
-| **Deliverable** | **Description**                                                                                                | **Due Date** | **Role** |
-|-----------------|----------------------------------------------------------------------------------------------------------------|--------------|----------|
-| RFP             | Document outlining which organization needs a software solution, and a throurough set of requirements gathered |   Jan 22     | Clients  |
-|                 |                                                                                                                |              |          |
+| **Deliverable**                      | **Description**                                                                 | **Due Date**    | **Role**  |
+|--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
+|  RFP Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
+| RFP                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
+| Requirements Document                | <description>                                                                   | Feb 3 - 11pm    | Designers |
+| Team Assessment #1                   | <description>                                                                   | Feb 3 - 8am     | -         |
+| Data Models and Use Cases            | Formally propose use cases and data models                                      | Feb 17 - 11pm   | Designers |
+| Team Assessment #2                   | <description>                                                                   | Mar 4 - 8am     | -         |
+| Prototypes                           | Submit prototypes based on previously proposed requirements and client feedback | Mar 9 - 11pm    | Designers |
+| Final presentation and demonstration | Project presentations which include a demo  of final prototypes.                | Mar 31 in class | Designers |
