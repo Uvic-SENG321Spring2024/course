@@ -16,6 +16,7 @@ The requirements documentation in a project is a most powerful tool to document 
 The project follows an agile methodology and iteratively develops a number of artifacts such as Request for Proposals (RFP), Requirements Documemnt (RD), Prototypes and in-class Presentations. **All your project work, must be uploaded to your GitHub repo by the due dates given. See below for instructions.**
 
 ## GitHub Usage Guidelines
+Github instructions here.
 
 ### Working as a Client
 In order to create realistic requirements for a developer team, you, as a client team, must first write an RFP (Request For Proposal). This involves finding a real organization in our community, and gathering a set of requirements based on a problem that they need solved. For example, perhaps a pharmacy in your neighbourhood needs a better system to acquire and manage information about medications to be dispensed. Specific information on how to choose an organization, and create the RFP can be found below in Deliverables.
