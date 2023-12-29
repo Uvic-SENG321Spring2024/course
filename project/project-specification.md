@@ -63,14 +63,16 @@ More information will be provided here timely.
 More information will be provided here timely.
  
 ## Project Due Dates
-| **Deliverable**                      | **Description**                                                                 | ** Tentative Due Date**    | **Role**  |
+**The current due dates are tentative and subject to change** 
+
+| **Deliverable**                      | **Description**                                                                 | ***Tentative Due Date**    | **Role**  |
 |--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
 |  Find Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
 | [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
-| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | include vision and scope section                                                                   | Feb 3 - 11pm    | Designers |
-| Team Assessment #1                   | <description>                                                                   | Feb 3 - 8am     | -         |
-| Data Models and Use Cases            | Formally propose use cases and data models                                      | Feb 17 - 11pm   | Designers |
-| Team Assessment #2                   | <description>                                                                   | Mar 4 - 8am     | -         |
+| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | Include vision and scope section                                                                   | Feb 3 - 11pm    | Designers |
+| Team Assessment #1                   | TBA                                                                   | Feb 3 - 8am     | -         |
+| Requirements Document            | Formally propose system diagrams, user stories, NFRs, acceptance tests                                      | Feb 17 - 11pm   | Designers |
+| Team Assessment #2                   | TBA                                                                  | Mar 4 - 8am     | -         |
 | Prototypes                           | Submit prototypes based on previously proposed requirements and client feedback | Mar 9 - 11pm    | Designers |
 | Final presentation and demonstration | Project presentations which include a demo  of final prototypes.                | Apr 2,3,4 in class | Designers |
-| Team Assessment #3                   | <description>                                                                   | Apr 4- 8am      | -         |
+| Team Assessment #3                   | TBA                                                                  | Apr 4- 8am      | -         |
