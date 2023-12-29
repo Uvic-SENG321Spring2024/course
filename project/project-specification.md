@@ -44,6 +44,13 @@ As a client team, you will be asked to produce an RFP, which requires you to fin
 - At least one member of the organization has availability to be interviewed by your team in the first two weeks of the course.
 
 Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md) including a template for the RFP and the inspection. 
+
+### Requirements Document (RD)
+- general tips for which sections should be included
+
+### Prototyping Guidelines
+
+### Final Presentation Guidelines
  
 ## Project Due Dates
 | **Deliverable**                      | **Description**                                                                 | **Due Date**    | **Role**  |
