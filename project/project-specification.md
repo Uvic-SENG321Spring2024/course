@@ -29,7 +29,17 @@ Your team will also act as a consultant contracted to develop a solution to resp
 **NOTE:** your project team will act as a **client** for **one** project and a **designer** for a **different** project.
 
 ## GitHub Usage Guidelines
-Github instructions here.
+For this project, your team will have write access to two different *repos*. The teaching team will create the two repos on your behalf during the first week of the semester. 
+- one *repo* you will use as the *client* team.
+- one *repo* you will use as the *developer* team.
+
+As part of your project work as *clients* you will write up and release your RFP in your client repo. Additionally, you will have read access to the developer team repo who will design the solution for your RFP project. You are expected to create an issue in the developer team repo for any problem/question/concern that you encouter when you review their requirements document after each iteration of the project. 
+
+As part of your project work as *developers* you will write up and iteratively release the requirements document in your developer repo. As described above, the requirements document that you iteratively work on throughout the semester will be a single, living document that each member of your developer team will be expected to contribute. You are expected to hand in one single markdown file with all the contents of requirements document following the format of the [template](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md). Over the course of the semester, you will continue to add to this document for each iteration as a developer team. 
+
+Since you are expected to work on one markdown file for your requirements document, you will need to coordinate within your team who is going to work on each subsection of the markdown file. For instance, one team member may work on the requirements for feature 1, another team member on feature 2, another team member on quality attributes, etc. If you encounter some merge conflicts due to conflicting modifications to the same section, you will need to resolve these merge conflicts as they come up. 
+
+The client team whose RFP you are responding to will have read access to your developer repo. The client team will review your requirements document after each iteration and create an issue for any problem/question/concern that they see in the requirements document. It will be up to your team to address each issue in the form of a pull request.  Before you can merge any of your changes to the main branch of the requirements document (whether you are adding a new section or responding to client feedback), it is expected that you submit a pull request for the change and that at least two approvals are submitted before the change may be pushed to the main branch.
 
 
 ## General Project Rules
