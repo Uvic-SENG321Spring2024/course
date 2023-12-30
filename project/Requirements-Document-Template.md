@@ -14,7 +14,7 @@ You may use this requirements document template to get your requirements documen
 1. Introduction
    1. **Purpose**
       
-      Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this RS, particularly if this RS describes only part of the system or a single subsystem.
+      Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this RD, particularly if this RD describes only part of the system or a single subsystem.
 
    2. **Project Scope**
 
@@ -23,12 +23,12 @@ You may use this requirements document template to get your requirements documen
    
    3. **Glossary of Terms**
 
-      Define all the terms necessary to properly interpret the RS, including acronyms and abbreviations.
+      Define all the terms necessary to properly interpret the RD, including acronyms and abbreviations.
 
 
    4. **References**
 
-      List any other documents or Web addresses to which this RS refers. These may include user interface style guides, contracts, standards, system requirements specifications or use case documents. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.
+      List any other documents or Web addresses to which this RD refers. These may include user interface style guides, contracts, standards, system requirements specifications or use case documents. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.
 
    5. **Overview**
 
@@ -37,12 +37,12 @@ You may use this requirements document template to get your requirements documen
 2. **Overall Description**
    1. **Product Perspective**
 
-      Describe the context and origin of the product being specified in this RS. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the RS defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful but not required.
+      Describe the context and origin of the product being specified in this RD. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the RD defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful but not required.
 
 
    2. **Product Features**
 
-        Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the RS.
+        Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the RD.
 
 
    3. **User Classes and Characteristics**
@@ -61,7 +61,7 @@ You may use this requirements document template to get your requirements documen
 
    6. **Assumptions and Dependencies**
 
-        List any assumed factors (as opposed to known facts) that could affect the requirements stated in the RS. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project.
+        List any assumed factors (as opposed to known facts) that could affect the requirements stated in the RD. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project.
 
 
 3. **System Features**
@@ -94,8 +94,10 @@ You may use this requirements document template to get your requirements documen
 
    3. **System Feature 2 (and so on)**
 
+4. **Data Requirements** 
 
-4. **External Interface Requirements**
+
+5. **External Interface Requirements**
    1. User Interfaces
 
       Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed.
@@ -112,11 +114,11 @@ You may use this requirements document template to get your requirements documen
 
       Describe the requirements associated with any communications functions required by this product, including e-mail, web browser, network server communications protocols, electronic forms, and so on.
 
-5. **Software Quality Requirements**
+6. **Software Quality Attributes**
 
     Sepcify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
-6. **Analysis Models**
+7. **Analysis Models**
 
 
-7. **Appendix**   
+8. **Appendix**   
