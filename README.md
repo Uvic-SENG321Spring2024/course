@@ -1,6 +1,6 @@
 # Schedule and Topics
 
-See the [Schedule here] [https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYUQcGn887zH0AN371tf4vGWIA/edit] for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource ** for the course!
+See the [Schedule here][https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYUQcGn887zH0AN371tf4vGWIA/edit] for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource ** for the course!
 
 ## Syllabus
 The official course syllabus is distributed via [HEAT](https://heat.csc.uvic.ca/coview/course/2024011/SENG321) and is our contract for the course. You should read it carefully.
