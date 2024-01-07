@@ -18,6 +18,9 @@ There is a large project in this course, see [the project page](https://github.c
 ## Quizzes
 There will be seven Quizzes (see Schedule) and best six out of the seven will be counted towards the Quizzes grade, conducted on Brightspace so please bring something that can connect to the internet on those days.
 
+## Class Participation
+Class participation is worth 10% of your total marks. Please see the [criteria](https://github.com/Uvic-SENG321Spring2024/course/blob/main/Assessment%20of%20Class%20Participation.md) for the breakdown of class participation.
+
 ## Textbook
 Required: Software Requirements (3rd edition) by Karl Wiegers and Joy Beatty (Microsoft Press). Available through [UVic Libraries subscription](https://search.library.uvic.ca/discovery/fulldisplay?context=PC&vid=01VIC_INST:01UVIC&search_scope=MyInst_and_CI&tab=LIBALL&docid=cdi_safari_books_v2_9780735679658) for "free".
 
