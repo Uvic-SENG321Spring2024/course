@@ -13,7 +13,7 @@ University and department policies on professional conduct and integrity are app
 2024 Update: In case it is not clear, using ChatGPT, Copilot, and other LLM-based AI assistants is considered to be a violation of the integrity policy unless specifically mentioned as acceptable in the assignment.
 
 ## Project
-There is a large project in this course, see project page for a description of its specification, deliverables and timelines. 
+There is a large project in this course, see [the project page](https://github.com/Uvic-SENG321Spring2024/course/tree/main/project)for a description of its specification, deliverables and timelines. 
 
 ## Quizzes
 There will be seven Quizzes (see Schedule) and best six out of the seven will be counted towards the Quizzes grade, conducted on Brightspace so please bring something that can connect to the internet on those days.
