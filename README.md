@@ -1,21 +1,6 @@
 # Schedule and Topics
 
-| Week | It. | Dates | Module | Mon. (Lecture) | Tues. (Lab) | Wed. (Lab) | Thurs. (Lecture) | Sunday |  
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| 1 | 0 | Jan 8-14 | | | | | | |
-| 2 | 0 | Jan 15-21 | |  | | | | |
-| 3 | 1 | Jan 22-29 | |  | | | | |
-| 4 | 1 | Jan 30-Feb 4| | | | | | |
-| 5 | 2 | Feb 5-11 | | | | | | |
-| 6 | 2 | Feb 12-18| | | | | | |
-| 7 |  | Feb 19-25| Reading Break | Reading Break | Reading Break | Reading Break | Reading Break | Reading Break | Reading Break |
-| 8 | 3 | Feb 26-Mar 3 | | | | | | |
-| 9 | 3 | Mar 4-10| | | | | | |
-| 10 | 3 | Mar 11-17| | | | | | |
-| 11 | 4 | Mar 18-24| | | | | | |
-| 12 | 4 | Mar 25-31| | | | | | |
-| 13 |  | Apr 1-7 | | Easter Monday - No Class | | | | |
-| 14 |  | Apr 8-14| | | | | | |
+See the [Schedule here] [https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYUQcGn887zH0AN371tf4vGWIA/edit] for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource ** for the course!
 
 ## Syllabus
 The official course syllabus is distributed via [HEAT](https://heat.csc.uvic.ca/coview/course/2024011/SENG321) and is our contract for the course. You should read it carefully.
