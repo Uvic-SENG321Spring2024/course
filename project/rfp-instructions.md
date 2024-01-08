@@ -6,7 +6,7 @@ Subsequently, you will act as representatives of this organization for the durat
 Remember the **RFP is due January 19 at 10pm!**
 
 ## Template
-The remainder of this document serves as template for you and your team **acting as clients** to use to create your RFP. 
+The remainder of this document serves as template for you and your team **acting as clients** to use to create your RFP. We expect the RFP to be roughly 3-4 letter-size (a4) pages.
 
 ---
 ## Document History
