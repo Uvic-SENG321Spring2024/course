@@ -3,7 +3,7 @@
 Your first task is to find a real organization, introduce yourself, and identify a problem in the company that can benefit from a software solution. 
 You will conduct as many interviews as needed to become familiar with the organization’s system and problem.
 Subsequently, you will act as representatives of this organization for the duration of this project. Your first deliverable is the request for proposal (RFP).
-Remember the deadline to identify a company is January 17 and the **RFP is due January 22!**
+Remember the **RFP is due January 19 at 10pm!**
 
 ## Template
 The remainder of this document serves as template for you and your team **acting as clients** to use to create your RFP. 
