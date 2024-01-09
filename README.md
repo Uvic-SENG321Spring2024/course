@@ -1,3 +1,5 @@
+# Official Course Repo for UVic SENG321: Requirements Engineering - Spring 2024
+
 # Schedule and Topics
 
 See the [Schedule here](https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYUQcGn887zH0AN371tf4vGWIA/edit?usp=sharing) for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource** for the course!
