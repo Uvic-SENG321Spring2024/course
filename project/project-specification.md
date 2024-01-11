@@ -82,7 +82,7 @@ More information will be provided here timely.
 | **Deliverable**                      | **Description**                                                                 | ***Tentative Due Date**    | **Role**  |
 |--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
 |  Find Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
-| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 20-11pm     | Clients   |
+| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 21-11pm     | Clients   |
 | [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | Include vision and scope section                                                                   | Feb 3 - 11pm    | Designers |
 | Team Assessment #1                   | TBA                                                                   | Feb 3 - 8am     | -         |
 | Requirements Document            | Formally propose system diagrams, user stories, NFRs, acceptance tests                                      | Feb 17 - 11pm   | Designers |
