@@ -1,5 +1,6 @@
 # Official Course Repo for UVic SENG321: Requirements Engineering - Spring 2024
 
+
 # Schedule and Topics
 
 See the [Schedule here](https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYUQcGn887zH0AN371tf4vGWIA/edit?usp=sharing) for the current lecture and Lab topics, Project activities, deliverables and due dates. At any time please examine this schedule first if you have any quesions about what is going on in the course. This is a **main resource** for the course!
@@ -7,8 +8,8 @@ See the [Schedule here](https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYU
 | Week | Iter. | Dates | Monday | Tuesday | Wednesday | Thursday | Sunday |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | 
 | 1 | 0 | Jan 8-14 | Jan 8. Introductions <br/> <br/> 1. Groups get assigned and posted in Brightspace <br/> [Lecture Slides](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/1_introductions.pdf) | Jan 9 (no lab, but suggested activity) <br/> <br/> Get to know your project team – go to the pub with your team! <br/> Create your team’s Teams space and include the TAs <br/> A0 – Learning GIt and Github (individual, not for marks)|  Jan 10 (no lab, but suggested activity) <br/> <br/> Get to know your project team – go to the pub with your team! <br/> A0 – Learning GIt and Github (individual, not for marks) | Jan 11. Introductions 2  <br/> <br/> Chapter 1 (Intro to RE) <br/> If conducting interviews before next week, also Read Chapter 7 (Elicitation) <br/> QUIZ 1. |  Find a company and schedule interviews <br/><br/> Let teaching team know about the company you found.  <br/> Setup your teams’ GH repos.  |
-| 2 | 0 | Jan 15-21  |  | | | | |
-| 3 | 1 | Jan 22-29  |  | | | | |
+| 2 | 0 | Jan 15-21  | Jan 15. Requirements Elicitation <br/> <br/> Chapter 7 (Elicitation) <br/> Clients describe the organisation they interview and present status of identifying a real-life problem from a company.  | Jan 16 <br/> Chapter 5 (p. 77-91) <br/> <br/> (by now) Requirements Gathering from company staff for business goals, vision, functional and user requirements | Jan 17 <br/> <br/> Work on RFP, as clients | Jan 18 CrowdRE <br/> <br/> A Requirements Development Framework  <br/> Chapter 3 (p. 43-47) | Request for Proposal document due Sunday 10pm. |
+| 3 | 1 | Jan 22-29  | Jan 22. Lecture: Requirements Elicitation <br/> <br/> Chapter 6 (Finding the voice of the user) Chapter 3 (p. 48-49)<br/> Clients present their RFP. Developers choose a Project.<br/>1st team assessment due 11pm  | Jan 23 <br/> <br/>Designers analyse RFP, prepare for elicitations  | Jan 24 <br/><br/>1st Client meeting:   Requirements elicitations | Jan 25 Requirements Documentation <br/> <br/> Chapter 10 (Documenting requirements) <br/>  QUIZ 2 | |
 | 4 | 1 | Jan 30-Feb 4 | | | | | |
 | 5 | 2 | Feb 5-11 |  | | | | |
 | 6 | 2 | Feb 12-18 | | | | | |
