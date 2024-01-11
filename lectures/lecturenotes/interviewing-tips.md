@@ -99,13 +99,16 @@ The **active listening** technique has five key tools:
 - Using appropriate words and phrases 
 - Giving acceptance cues 
 - Restating the interviewee's responses 
-- Using silence effectively 
-- When all areas on the interview outline have been explored, ask 
+- Using silence effectively
+  
+  When all areas on the interview outline have been explored, ask 
 - "Is there anything we've overlooked?" or 
-- "What other areas should I have asked you about?" 
-- This encourages the interviewee to discuss issues that should have been covered. 
+- "What other areas should I have asked you about?"
 - "What one change would make your job easier or more effective?" 
 - This question elicits suggestions for improvement. 
+
+This encourages the interviewee to discuss issues that should have been covered. 
+
  
 
 **Asking Open-Ended Questions**
