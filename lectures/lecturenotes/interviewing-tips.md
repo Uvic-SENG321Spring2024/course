@@ -83,9 +83,9 @@ Use "closed questions" sparingly, as the result of this approach is usually that
 - requires an excellent command of vocabulary and concepts
 
 **Special consideration is to be given to:**
--note taking
--taping
--active listening
+- note taking
+- taping
+- active listening
 
 **Note taking** can become a distraction if not restricted to brief notations for later elaboration. Your notepad is best kept out of the interviewee's line of vision. 
 The purpose of an analyst's notes should be to help recall pertinent points and hypotheses formed during an interview. Many analysts will use broad headings for note taking rather than specific categories. 
