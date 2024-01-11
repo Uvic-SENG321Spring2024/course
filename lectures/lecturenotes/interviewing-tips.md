@@ -33,9 +33,9 @@ Analysts must understand common industry terms and be somewhat familiar with the
 
 **Interviewers should explain**
 
--the purpose of the interview
--the general areas to be covered
--the approximate amount of time required
+- the purpose of the interview
+- the general areas to be covered
+- the approximate amount of time required
 
 
 
