@@ -62,7 +62,7 @@ As a client team, you will be asked to produce an RFP, which requires you to fin
 - The system uses a GUI (Graphical User Interface)
 - The organization has availability to be interviewed by your team in the first two weeks of the course.
 
-Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md) for the RFP, which includes the template to use. 
+Here are the [guidelines](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md) for the RFP, which includes the template to use. 
 
 ### Requirements Document (RD)
 More information will be provided here timely. For now, please see the [template](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) for the RD. 
@@ -82,7 +82,7 @@ More information will be provided here timely.
 | **Deliverable**       | **Description**                                                                  | **Due Date**       | **Role*               |
 |-----------------------|----------------------------------------------------------------------------------|--------------------|-----------------------|
 | Find Organization     | Find an organization, relevant problem and have interviews scheduled.            | Jan 13- 11pm        | clients               |
-| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 21- 11pm        | clients               |
+| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Request-for-Proposal/RFP_template.md)                  | Formally propose the relevant problem  with a set of gathered requirements       | Jan 21- 11pm        | clients               |
 | [Team Assessment](https://github.com/Uvic-SENG321Spring2024/course/tree/main/project/team-assessment) 1     | Submit survey for team assessment.                                               | Jan 22- 11pm        | reflect on both roles |
 | Requirements Document | Include vision and scope section                                                 | Feb 3- 11pm         | designers             |
 | Team Assessment 2     | Submit survey for team assessment.                                               | Feb 5- 11pm         | reflect on both roles |
