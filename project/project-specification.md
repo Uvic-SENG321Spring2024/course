@@ -79,14 +79,16 @@ More information will be provided here timely.
 ## Project Due Dates
 **The current due dates are tentative and subject to change** 
 
-| **Deliverable**                      | **Description**                                                                 | ***Tentative Due Date**    | **Role**  |
-|--------------------------------------|---------------------------------------------------------------------------------|-----------------|-----------|
-|  Find Organization                    | Find an organization, relevant problem and have interviews scheduled.           | Jan 13-11pm     | Clients   |
-| [RFP](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/rfp-instructions.md)                                  | Formally propose the relevant problem with a set of gathered requirements       | Jan 21-11pm     | Clients   |
-| [Requirements Document](https://github.com/Uvic-SENG321Spring2024/course/blob/main/project/Requirements-Document-Template.md) | Include vision and scope section                                                                   | Feb 3 - 11pm    | Designers |
-| Team Assessment #1                   | TBA                                                                   | Feb 3 - 8am     | -         |
-| Requirements Document            | Formally propose system diagrams, user stories, NFRs, acceptance tests                                      | Feb 17 - 11pm   | Designers |
-| Team Assessment #2                   | TBA                                                                  | Mar 4 - 8am     | -         |
-| Prototypes                           | Submit prototypes based on previously proposed requirements and client feedback | Mar 9 - 11pm    | Designers |
-| Final presentation and demonstration | Project presentations which include a demo  of final prototypes.                | Apr 2,3,4 in class | Designers |
-| Team Assessment #3                   | TBA                                                                  | Apr 4- 8am      | -         |
+| **Deliverable**       | **Description**                                                                  | **Due Date**       | **Role*               |
+|-----------------------|----------------------------------------------------------------------------------|--------------------|-----------------------|
+| Find Organization     | Find an organization, relevant problem and have interviews scheduled.            | Jan 13- 11pm        | clients               |
+| RFP                   | Formally propose the relevant problem  with a set of gathered requirements       | Jan 21- 11pm        | clients               |
+| Team Assessment 1     | Submit survey for team assessment.                                               | Jan 22- 11pm        | reflect on both roles |
+| Requirements Document | Include vision and scope section                                                 | Feb 3- 11pm         | designers             |
+| Team Assessment 2     | Submit survey for team assessment.                                               | Feb 5- 11pm         | reflect on both roles |
+| Requirements Document | Formally propose system diagrams,  user stories, NFRs, acceptance tests          | Feb 17- 11pm        | designers             |
+| Team Assessment 3     | Submit survey for team assessment                                                | Feb 26- 11pm        | reflect on both roles |
+| Prototypes            | Submit prototypes based on previously  proposed requirements and client feedback | Mar 9- 11pm         | designers             |
+| Team Assessment 4     | Submit survey for team assessment                                                | Mar 18- 11pm        | reflect on both roles |
+| Final presentation    | Project presentations which include  a demo of final prototypes.                 | Apr 2,3,4 in class  | designers             |
+| Team Assessment 5     | Submit survey for team assessment                                                | Apr 8- 11pm         | reflect on both roles |
