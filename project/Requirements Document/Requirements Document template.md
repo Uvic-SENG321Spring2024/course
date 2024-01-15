@@ -11,7 +11,17 @@ You may use this requirements document template to get your requirements documen
 |  |  | | |
 |  |  | | |
 
-1. Introduction
+1. Business Requirements
+   1. **Background**
+   2. **Business Opportunity**
+   3. **Business Objectives**
+   4. **Success Metrics**
+   5. **Vision Statement**
+2. Scope and Limitationos
+   1. **Major Features**
+   2. **Scope of Initial and Subsequent Releases**
+   3. **Limitations and Exclusions**
+3. Introduction (Everything from here and below is for Iteration 2-4)
    1. **Purpose**
       
       Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this RD, particularly if this RD describes only part of the system or a single subsystem.
@@ -34,7 +44,7 @@ You may use this requirements document template to get your requirements documen
 
       Provide an overview of the sections and contents of the document
 
-2. **Overall Description**
+4. **Overall Description**
    1. **Product Perspective**
 
       Describe the context and origin of the product being specified in this RD. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the RD defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful but not required.
@@ -64,7 +74,7 @@ You may use this requirements document template to get your requirements documen
         List any assumed factors (as opposed to known facts) that could affect the requirements stated in the RD. These could include third-party or commercial components that you plan to use, issues around the development or operating environment, or constraints. The project could be affected if these assumptions are incorrect, are not shared, or change. Also identify any dependencies the project has on external factors, such as software components that you intend to reuse from another project.
 
 
-3. **System Features**
+5. **System Features**
 
     This template illustrates organizing the functional requirements for the product by system features, the major services provided by the product. You may prefer to organize this section by use case, mode of operation, user class, object class, functional hierarchy, or combinations of these, whatever makes the most logical sense for your product.
    
@@ -94,10 +104,10 @@ You may use this requirements document template to get your requirements documen
 
    3. **System Feature 2 (and so on)**
 
-4. **Data Requirements** 
+6. **Data Requirements** 
 
 
-5. **External Interface Requirements**
+7. **External Interface Requirements**
    1. User Interfaces
 
       Describe the logical characteristics of each interface between the software product and the users. This may include sample screen images, any GUI standards or product family style guides that are to be followed, screen layout constraints, standard buttons and functions (e.g., help) that will appear on every screen, keyboard shortcuts, error message display standards, and so on. Define the software components for which a user interface is needed.
@@ -114,11 +124,11 @@ You may use this requirements document template to get your requirements documen
 
       Describe the requirements associated with any communications functions required by this product, including e-mail, web browser, network server communications protocols, electronic forms, and so on.
 
-6. **Software Quality Attributes**
+8. **Software Quality Attributes**
 
     Sepcify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
-7. **Analysis Models**
+9. **Analysis Models**
 
 
-8. **Appendix**   
+10. **Appendix**   
