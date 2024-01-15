@@ -1,6 +1,6 @@
 You may use this requirements document template to get your requirements document started for your designer team.
 
-# Project Name (date created)
+# Requirements Document - Project Name (date created)
 
 # Revision History
 
