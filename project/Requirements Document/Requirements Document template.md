@@ -25,48 +25,33 @@ You may use this requirements document template to get your requirements documen
    Indicators that stakeholders will use to define and measure success on the project. What are the factors that will have the greatest impact on achieving success (i.e., could include aspects within and external to the organization).
 
    5. **Vision Statement**
-   Write a concise vision statement that summarizes the long-term purpose and intent of the product.  
+   Write a concise vision statement that summarizes the long-term purpose and intent of the product.   Describe the context and origin of the product being specified in this RD. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the RD defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful but not required.
+
+   6. **Overview**
+
+      Provide an overview of the sections and contents of the document
+
 
 2. Scope and Limitationos
    1. **Major Features**
-   List the product's major features or user capabilities. Think about how users will use the features to ensure the list is complete. Also ensure that it does not include unnecessary features that sound interesting, but does not provide customer value. 
-
-   2. **Scope of Initial and Subsequent Releases**
-   Summarize capabilities that are planned for inclusion in the initial product release. 
-
-   3. **Limitations and Exclusions**
-3. Introduction 
-   1. **Purpose**
-      
-      Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this RD, particularly if this RD describes only part of the system or a single subsystem.
+      Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 5, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the RD. Think about how users will use the features to ensure the list is complete. Also ensure that it does not include unnecessary features that sound interesting, but does not provide customer value.     
 
    2. **Project Scope**
+   Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies.
 
-      Provide a short description of the software being specified and its purpose, including relevant benefits, objectives, and goals. Relate the software to corporate goals or business strategies.
+   3. **Limitations and Exclusions**
 
-   
-   3. **Glossary of Terms**
+3. **Overall Description**
+
+
+   1. **Glossary of Terms**
 
       Define all the terms necessary to properly interpret the RD, including acronyms and abbreviations.
 
 
-   4. **References**
+   2. **References**
 
       List any other documents or Web addresses to which this RD refers. These may include user interface style guides, contracts, standards, system requirements specifications or use case documents. Provide enough information so that the reader could access a copy of each reference, including title, author, version number, date, and source or location.
-
-   5. **Overview**
-
-      Provide an overview of the sections and contents of the document
-
-4. **Overall Description**
-   1. **Product Perspective**
-
-      Describe the context and origin of the product being specified in this RD. For example, state whether this product is a follow-on member of a product family, a replacement for certain existing systems, or a new, self-contained product. If the RD defines a component of a larger system, relate the requirements of the larger system to the functionality of this software and identify interfaces between the two. A simple diagram that shows the major components of the overall system, subsystem interconnections, and external interfaces can be helpful but not required.
-
-
-   2. **Product Features**
-
-        Summarize the major features the product contains or the significant functions that it performs or lets the user perform. Details will be provided in Section 3, so only a high level summary is needed here. Organize the functions to make them understandable to any reader of the RD.
 
 
    3. **User Classes and Characteristics**
