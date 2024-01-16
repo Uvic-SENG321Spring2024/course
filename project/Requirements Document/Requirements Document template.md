@@ -35,7 +35,7 @@ You may use this requirements document template to get your requirements documen
    Summarize capabilities that are planned for inclusion in the initial product release. 
 
    3. **Limitations and Exclusions**
-3. Introduction (Everything from here and below is for Iteration 2-4)
+3. Introduction 
    1. **Purpose**
       
       Identify the product whose software requirements are specified in this document, including the revision or release number. Describe the scope of the product that is covered by this RD, particularly if this RD describes only part of the system or a single subsystem.
