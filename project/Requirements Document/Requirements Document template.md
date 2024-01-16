@@ -13,13 +13,27 @@ You may use this requirements document template to get your requirements documen
 
 1. Business Requirements
    1. **Background**
+   Summarize the rationale and context for the new product or for changes to be made to an existing one. 
+
    2. **Business Opportunity**
+   Describe the business problem that is being solved or the process being improved. Describe the needs of typical customers or of the target market. Present customer problems that the new product will address. 
+
    3. **Business Objectives**
+   Summarize the important business benefits the product will provide in a quantitative and measurable way. Organizations generally undertake a project to solve a problem or exploit an opportunity. Business objectives define ways to measure achievement of business goals. 
+
    4. **Success Metrics**
+   Indicators that stakeholders will use to define and measure success on the project. What are the factors that will have the greatest impact on achieving success (i.e., could include aspects within and external to the organization).
+
    5. **Vision Statement**
+   Write a concise vision statement that summarizes the long-term purpose and intent of the product.  
+
 2. Scope and Limitationos
    1. **Major Features**
+   List the product's major features or user capabilities. Think about how users will use the features to ensure the list is complete. Also ensure that it does not include unnecessary features that sound interesting, but does not provide customer value. 
+
    2. **Scope of Initial and Subsequent Releases**
+   Summarize capabilities that are planned for inclusion in the initial product release. 
+
    3. **Limitations and Exclusions**
 3. Introduction (Everything from here and below is for Iteration 2-4)
    1. **Purpose**
