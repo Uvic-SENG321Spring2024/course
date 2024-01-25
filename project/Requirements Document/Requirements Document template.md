@@ -105,9 +105,16 @@ You may use this requirements document template to get your requirements documen
 
    3. **System Feature 2 (and so on)**
 
-6. **Data Requirements**  (e.g., formatting)
-
-
+6. **Data Requirements**  
+      
+   1. Logical data model
+      E.g., entity-relationship diagrams and UML class diagrams. You may provide a data model for the business operations or the data that the system modifies. Not the same thing as a database design data model. 
+   2. Data dictionary
+      Composition of data strucutres, meaning, data type, length, format, and allowed values. 
+   3. Reports
+      If your system will generate reports, then describe the attributes of those reports. You can detail the layout of the report.
+   4. Data acquisition, integrity, retention, and diposal
+      If possible, describe how data is acquired, retained, and later on disposed. Describe the requirements for protecting the integrity of the data.
 7. **External Interface Requirements**
    1. User Interfaces
 
