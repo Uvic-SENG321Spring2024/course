@@ -13,7 +13,7 @@ You may use this requirements document template to get your requirements documen
 
 1. **Overview**
 
-      Provide an overview of the sections and contents of the document
+      Provide an overview of the sections and contents of the document. Alternatively you may choose to provide a table of contents here instead. 
 2. Business Requirements
 
    1. **Background**
