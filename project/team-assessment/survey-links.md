@@ -3,7 +3,7 @@
 |                   | Link | Due Date (always due 11pm) |
 |-------------------|------|----------|
 | Team Assessment 1 | [see survey](https://www.surveymonkey.ca/r/6VQKPJC)  | Monday Jan 22      |
-| Team Assessment 2 | TBA  | Monday Feb 5     |
+| Team Assessment 2 | [see survey](https://www.surveymonkey.ca/r/6SRTWXN)  | Monday Feb 5     |
 | Team Assessment 3 | TBA  | Monday Feb 26     |
 | Team Assessment 4 | TBA  | Monday Mar 18      |
 | Team Assessment 5 | TBA  | Monday Apr 8     |
