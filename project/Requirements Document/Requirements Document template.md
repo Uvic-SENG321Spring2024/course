@@ -135,7 +135,7 @@ You may use this requirements document template to get your requirements documen
 
 8. **Software Quality Attributes**
 
-    Sepcify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
+    Specify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
 9. **Analysis Models**
 
