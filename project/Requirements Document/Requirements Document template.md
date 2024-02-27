@@ -137,7 +137,12 @@ You may use this requirements document template to get your requirements documen
 
     Specify requirements that include performance, security, reusability, maintainability, usability, availability, interoperability, etc.
 
-9. **Analysis Models (Data Flow Diagrams)**
-
+9. **Analysis Models (Data Flow Diagrams, Sequence Diagram, Storyboard, Swimlane diagram)**
+- 1 level 0 data flow diagram
+- 1 level 1 data flow diagram
+- at least 2 level 2 data flow diagrams
+- storyboard for features/functional requirements
+- system level sequence diagram for each use case
+- 1 swimlane diagram
 
 10. **Appendix**   
