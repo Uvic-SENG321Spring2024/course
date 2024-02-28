@@ -143,6 +143,6 @@ You may use this requirements document template to get your requirements documen
 - at least 2 level 2 data flow diagrams
 - storyboard for features/functional requirements
 - system level sequence diagram for each use case
-- 1 swimlane diagram
+- 1 swimlane diagram for each use case
 
 10. **Appendix**   
