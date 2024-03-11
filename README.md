@@ -16,7 +16,7 @@ See the [Schedule here](https://docs.google.com/document/d/1e1wlBW-2_hh0Vhph0EYU
 | 7 |  | Feb 19-25| Reading Break | Reading Break | Reading Break | Reading Break | Reading Break | Reading Break |
 | 8 | 3 | Feb 26-Mar 3 | Feb 26 System Process models and UI Modeling and Design <br/> <br/> Chapter 12 <br/> In-class report on projects.  <br/> 3rd  team assessment due 11pm <br/> [Lecture slides 1](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/12_Data%20Flow%20diagrams%20ad%20other%20diagrams.pdf) <br/> [Lecture slides 2](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/12_UI%20Modeling%20and%20Design.pdf)| Feb 27 User story mapping | Feb 28 | Feb 29 <br/>  Inclusive Design and Empathetic Software Engineering <br/>QUIZ 5 (from Chapter 12) | |
 | 9 | 3 | Mar 4-10|  Mar 4 <br/> Ethical Software Development Guest lecture: Michael Holton, CMU | | | Mar 7 <br/> Validation and Verification <br/> [Lecture Slides](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/13_validation%20and%20verification.pdf) <br/> Bonus Quiz |
-| 10 | 3 | Mar 11-17|  | | | | |
+| 10 | 3 | Mar 11-17| Mar 11 <br/>Change Management and  Requirements Prioritization <br/> [Lecture Slides](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/14_change%20management%20and%20project%20management.pdf) <br/> [Related Paper](https://github.com/Uvic-SENG321Spring2024/course/blob/main/lectures/14_karlsson_1997_cost_value_prioritization_of_requirements.pdf) | | | | |
 | 11 | 4 | Mar 18-24|  | | | | |
 | 12 | 4 | Mar 25-31|  | | | | |
 | 13 |  | Apr 1-7 |  Easter Monday - No Class | | | | |
